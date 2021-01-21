@@ -1,2 +1,2 @@
-# vacinometro
+# Vacinômetro
 Vacinômetro Americana
